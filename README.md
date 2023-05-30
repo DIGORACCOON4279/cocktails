@@ -8,4 +8,4 @@
 
 *It´s the website🚀 [https://cocktails-digoraccoon4279.vercel.app/](https://cocktails-7co7oxtxm-digoraccoon4279.vercel.app/)
 
-![logo marca - reducida](https://github.com/DIGORACCOON4279/cocktails/assets/88150970/ab76eab4-565f-4101-972d-eb36b07b3b84)
+![logo marca - reducida](https://github.com/DIGORACCOON4279/cocktails/assets/88150970/0a94d237-6e69-4374-8a84-6658dced1b70)
