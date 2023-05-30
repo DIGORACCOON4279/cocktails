@@ -4,8 +4,6 @@
 
 *This is a Landing Interface Design🎫 of an Cocktails Ecommerce🛒
 
-<br>
-
-It´s coded using HTML, CSS and Boostrap
+*It´s coded using HTML, CSS and Boostrap
 
 *It´s the website🚀 [https://cocktails-digoraccoon4279.vercel.app/](https://cocktails-7co7oxtxm-digoraccoon4279.vercel.app/)
