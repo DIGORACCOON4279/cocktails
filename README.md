@@ -2,6 +2,6 @@
 
 # Cocktails Ecommerce
 
-This is a Landing Interface Design🎫 of an Cocktails Ecommerce🛒
+*This is a Landing Interface Design🎫 of an Cocktails Ecommerce🛒
 
-It´s the website🚀 [https://cocktails-digoraccoon4279.vercel.app/](https://cocktails-7co7oxtxm-digoraccoon4279.vercel.app/)
+*It´s the website🚀 [https://cocktails-digoraccoon4279.vercel.app/](https://cocktails-7co7oxtxm-digoraccoon4279.vercel.app/)
