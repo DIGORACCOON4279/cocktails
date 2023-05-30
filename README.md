@@ -2,7 +2,7 @@
 
 # Cocktails Ecommerce
 
-*This is a Landing Interface Design🎫 of an Cocktails Ecommerce🛒
+*This is a Landing Page Interface Design🎫 of an Cocktails Ecommerce🛒
 
 *It´s coded using HTML, CSS and Boostrap
 
