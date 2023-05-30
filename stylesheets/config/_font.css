@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
+
+:root{
+    /*---card- font-size----*/
+    --paragraph: 12px;
+    --title-paragraph-card: 14px;
+    /*---content-font-size----*/
+    --title: 55px;
+    --subtitle: 45px;
+    --content: 16px;
+    /*----font-weight----*/
+    --bold: 600;
+    --medium:400;
+    --light: 300;
+}
